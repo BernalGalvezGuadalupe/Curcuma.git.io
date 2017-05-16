@@ -1,2 +1,0 @@
-# Curcuma.git.io
-Curcuma
